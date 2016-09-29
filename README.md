@@ -9,4 +9,4 @@
 
     $ gawk -v root=public -f stamp-qs.awk < example.html
 
-Where root is the root directory to look for the files in
+Where `root` is the root directory where the files are
